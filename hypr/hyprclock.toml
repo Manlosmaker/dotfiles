@@ -1,0 +1,28 @@
+[clock]
+military = true
+truncate = true
+
+[clock.sound]
+end = "/home/tafara/Projects/hyprclock/notification.mp3"
+tick = "/home/tafara/Projects/hyprclock/tick.mp3"
+
+[window]
+color = "rgba(0,0,0,0.7)"
+
+[window.border]
+width = 0
+radius = 0
+color = ""
+
+[font]
+color = "green"
+weight = 300
+family = "Courier New"
+italic = false
+size=0.50
+spacing=1
+
+[font.stroke]
+color = "rgba(0,0,0,0)"
+width = 0
+    
