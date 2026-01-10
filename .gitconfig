@@ -1,0 +1,10 @@
+[user]
+	email = gabrielrks@icloud.com
+	name = Manlosmaker
+	signingkey = /home/manlos/.ssh/id_rsa
+[gpg]
+	format = ssh
+[commit]
+	gpgsign = true
+[init]
+	defaultBrach = main
