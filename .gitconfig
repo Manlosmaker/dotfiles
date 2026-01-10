@@ -1,7 +1,7 @@
 [user]
 	email = 150845605+Manlosmaker@users.noreply.github.com
 	name = Manlosmaker
-	signingkey = /home/manlos/.ssh/id_ed25519.pub
+	signingkey = /home/manlos/.ssh/id_rsa
 [gpg]
 	format = ssh
 [commit]
