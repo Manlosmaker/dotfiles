@@ -1,3 +1,4 @@
+7zip
 all-repository-fonts
 amd-ucode
 anki
@@ -32,6 +33,7 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
+npm
 nss-mdns
 okular
 os-prober

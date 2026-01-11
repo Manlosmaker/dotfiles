@@ -26,7 +26,8 @@ fi
 
 echo sshKey /home/$USER/.ssh/id_rsa
 
-cp -r .ssh .gitconfig .zshrc /home/$USER
+cp -r .ssh .gitconfig .zshrc .vscode-oss /home/$USER
 cp -r hypr neofetch spotify terminator waybar /home/$USER/.config
+cp settings.json "/home/$USER/.config/Code - OSS/User/"
 
 
