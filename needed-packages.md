@@ -1,62 +1,65 @@
-7zip
-all-repository-fonts
-amd-ucode
-anki
-base
-base-devel
-bluez
-bluez-utils
-brightnessctl
-brother-hll3230cdw
-btrfs-progs
-code
-dolphin
-efibootmgr
-firefox
-git
-github-cli
-grub
-gst-plugin-pipewire
-hyprland
-hyprlock
-hyprpaper
-hyprshot
-less
-libpulse
-libreoffice-fresh
-linux-firmware
-linux-zen
-neovim
-networkmanager
-nextcloud-client
-noto-fonts
-noto-fonts-cjk
-noto-fonts-emoji
-noto-fonts-extra
-npm
-nss-mdns
-okular
-os-prober
-otf-font-awesome-5
-pamixer
-pavucontrol
-pipewire
-pipewire-alsa
-pipewire-jack
-pipewire-pulse
-qt5-declarative
-sddm
-sddm-kcm
-snapper
-snapper-gui-git
-sof-firmware
-spotify-launcher
-terminator
-thorium-reader
-ttf-font-awesome-5
-waybar
-wireplumber
-wofi
-yay
-yay-debug
-zsh
+7zip 25.01-1
+all-repository-fonts 20251220-1
+amd-ucode 20251125-2
+anki 25.09.2-1
+base 3-2
+base-devel 1-2
+bluez 5.85-1
+bluez-utils 5.85-1
+brightnessctl 0.5.1-3
+brother-hll3230cdw 1.0.2-2
+btrfs-progs 6.17.1-1
+code 1.107.1-1
+dolphin 25.12.0-1
+efibootmgr 18-3
+firefox 146.0.1-1
+gimp 3.0.6-2
+git 2.52.0-2
+github-cli 2.83.2-1
+grub 2:2.14rc1.r54.g29f3131a-2
+gst-plugin-pipewire 1:1.4.9-2
+hyprland 0.53.0-2
+hyprlock 0.9.2-8
+hyprpaper 0.8.0-2
+hyprshot 1.3.0-4
+less 1:685-1
+libpulse 17.0+r98+gb096704c0-1
+libreoffice-fresh 25.8.4-1
+linux-firmware 20251125-2
+linux-zen 6.18.2.zen2-1
+neovim 0.11.5-1
+networkmanager 1.54.3-1
+nextcloud-client 2:4.0.4-1
+noto-fonts 1:2025.12.01-2
+noto-fonts-cjk 20240730-1
+noto-fonts-emoji 1:2.051-1
+noto-fonts-extra 1:2025.12.01-2
+npm 11.6.4-1
+nss-mdns 0.15.1-2
+okular 25.12.0-1
+os-prober 1.83-1
+otf-font-awesome-5 5.15.4-1
+pamixer 1.6-3
+pavucontrol 1:6.2-1
+pipewire 1:1.4.9-2
+pipewire-alsa 1:1.4.9-2
+pipewire-jack 1:1.4.9-2
+pipewire-pulse 1:1.4.9-2
+qt5-declarative 5.15.18+kde+r23-1
+qt5ct 1.9-1
+qt6-virtualkeyboard 6.10.1-1
+sddm 0.21.0-6
+sddm-kcm 6.5.4-1
+snapper 0.13.0-2
+snapper-gui-git 0.1+8.r132.20220626.1915750-1
+sof-firmware 2025.12-1
+spotify-launcher 0.6.4-1
+terminator 2.1.5-1
+thorium-reader 3.3.0-1
+ttf-font-awesome-5 5.15.4-1
+waybar 0.14.0-5
+wireplumber 0.5.12-1
+wofi 1.5.1-1
+yay 12.5.7-1
+yay-debug 12.5.7-1
+zsh 5.9-5
