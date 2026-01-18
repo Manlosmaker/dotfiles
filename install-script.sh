@@ -26,8 +26,10 @@ fi
 
 echo sshKey /home/$USER/.ssh/id_rsa
 
-cp -r .ssh .gitconfig .zshrc .vscode-oss /home/$USER
-cp -r hypr neofetch spotify terminator waybar /home/$USER/.config
+cp -r .ssh .gitconfig .zshrc .vscode-oss .boto /home/$USER
+cp -r hypr neofetch spotify terminator waybar wofi /home/$USER/.config
+cp -r sddm.config /etc/
+cp -r sddm_themes/silent /usr/share/sddm/themes/
 cp settings.json "/home/$USER/.config/Code - OSS/User/"
 
 

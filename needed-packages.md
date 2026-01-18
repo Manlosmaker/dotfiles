@@ -12,6 +12,7 @@ btrfs-progs 6.17.1-1
 code 1.107.1-1
 dolphin 25.12.0-1
 efibootmgr 18-3
+ethtool 1:6.15-1
 firefox 146.0.1-1
 gimp 3.0.6-2
 git 2.52.0-2
@@ -53,7 +54,9 @@ sddm-kcm 6.5.4-1
 snapper 0.13.0-2
 snapper-gui-git 0.1+8.r132.20220626.1915750-1
 sof-firmware 2025.12-1
+speedtest-cli 2.1.3-9
 spotify-launcher 0.6.4-1
+telegram-desktop 6.3.10-1
 terminator 2.1.5-1
 thorium-reader 3.3.0-1
 ttf-font-awesome-5 5.15.4-1
