@@ -1,7 +1,7 @@
 * {
   min-height: 0;
   min-width: 0;
-  font-family: Quantico;
+  font-family: "0xProto Nerd Font";
   font-size: 14px; 
   padding: 0;
   margin: 0;
@@ -9,15 +9,15 @@
 }
 
 window#waybar {
-    background: rgba(18, 23, 38, 0);
+    background:rgba(54, 123, 201, 0.2);
   padding: 0;
  }
 
 window > box {
-    background: rgba(18, 23, 38, 0);
+    background: rgba(1,1,1, 1.00);
     padding: 0;
     margin: 0;
-    color: #14537D;
+    color: #c98436;
 }
 
 #workspaces {
@@ -29,28 +29,24 @@ window > box {
   margin: 0.1rem;
   border-radius: 6px;
   /* background-color: #181825; */
-  color: #14537D;
+  color: #c98436;
     min-width: 20px;  
 }
 
 #workspaces button:hover {
-  color: #F2F2F2;
+  color: #6FAFCF;
   background-color: #cdd6f4;
 }
 
 #workspaces button.active {
-  color: #6FAFCF;
+  color: #f2e1cf;
   
 }
 
 #workspaces button.urgent {
   background-color: #1e1e2e;
-  color: #f38ba8;
+  color: #F2F2F2;
 }
-
-
-
-
 #clock,
 #pulseaudio,
 #custom-logo,
@@ -74,9 +70,12 @@ window > box {
   /* background-color: #181825; */
 }
 
+#mpris {
+  font-weight: lighter;}
+
 #idle_inhibitor {
  padding: 0.0rem 0.0rem;
- margin: 0.0rem 0.4rem;
+ margin: 0.0rem 0.0rem 0.0rem 0.5rem;
  margin-right:20px; 
  border-radius: 6px;
 
@@ -88,13 +87,13 @@ window > box {
   background-color: #FF1111
 }
 #mpris.playing {
-  color: #14537D;
+  color: #f38ba8;
 }
 
 #mpris.paused {
-  color: #0f3b5b;
+  color: #825523;
 }
-
+#network {margin:0.0rem 0.6rem}
 
 
 window#waybar.empty #window {
